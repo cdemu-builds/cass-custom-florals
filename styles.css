@@ -1625,6 +1625,20 @@ h1, h2, h3, h4 {
 
 /* Mobile */
 @media (max-width: 560px) {
+  .site-header {
+    padding: 0 1.25rem;
+  }
+
+  /* Hide wordmark on mobile — the emblem already carries the brand */
+  .site-logo__text {
+    display: none;
+  }
+
+  .site-logo__img {
+    height: 48px;
+    width: 48px;
+  }
+
   .site-nav {
     display: none;
     position: absolute;
