@@ -1629,14 +1629,9 @@ h1, h2, h3, h4 {
     padding: 0 1.25rem;
   }
 
-  /* Hide wordmark on mobile — the emblem already carries the brand */
-  .site-logo__text {
-    display: none;
-  }
-
+  /* Hide emblem on mobile — show text only */
   .site-logo__img {
-    height: 48px;
-    width: 48px;
+    display: none;
   }
 
   .site-nav {
