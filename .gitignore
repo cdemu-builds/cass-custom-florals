@@ -1,0 +1,8 @@
+# Wix export leftovers — JS bundles, CSS, and unused assets
+*_files/*.js
+*_files/*.css
+*_files/*.svg
+*_files/*.html
+*_files/Vista-x-Wix-final.svg
+*_files/40898a93cfff4578b1779073137eb1b4.png
+*_files/aebe5b6fd55f471a936c72ff2c8289d7.png
